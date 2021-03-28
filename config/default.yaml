@@ -1,0 +1,14 @@
+port: 3004
+
+signature-api-identifier-1: hot_wallet
+signature-api-ip-1: http://localhost
+signature-api-port-1: 3005
+
+signature-api-identifier-2: warm_wallet
+signature-api-ip-2: http://localhost
+signature-api-port-2: 2998
+
+signature-api: http://localhost:3005
+
+apikey-ip: http://localhost
+apikey-port: 3888
